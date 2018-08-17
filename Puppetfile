@@ -16,6 +16,6 @@ mod 'testrepo',
   :git => 'https://github.com/puppettst3/testrepo.git',
   :branch => 'master'
 
-mod 'apache'
+mod 'apache',
   :git => 'https://github.com/puppettst3/apache.git',
   :branch => 'master'
